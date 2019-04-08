@@ -1,0 +1,38 @@
+    h1 {
+
+        text-align: center;
+        color: green
+    }
+
+
+    button,
+    
+    form,
+    input {
+      margin: 20px;
+      color: blue;
+    }
+     .animaldiv {
+       margin-top: 100px;
+
+     } 
+     #add-animal{
+     margin: 0px;
+     color:green;
+     
+     }
+
+     .animal-btn {
+        margin: 15px;
+        color:black;
+        background-color: rgb(141, 141, 236);
+
+     } 
+    div {
+    
+    float: left;
+    color:black;;
+    
+    }
+    
+ 
